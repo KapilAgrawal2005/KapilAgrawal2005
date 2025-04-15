@@ -44,7 +44,7 @@
 ---
 
 ## 🐍 Snake Game Contribution Chart:
-![snake gif](https://github.com/KapilAgrawal2005/KapilAgrawal2005/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/KapilAgrawal2005/KapilAgrawal2005/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## ✍️ Dev Quote of the Day:
