@@ -28,9 +28,9 @@
 ## 📈 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KapilAgrawal2005&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="175" width="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KapilAgrawal2005&theme=tokyonight&hide_border=false" height="175" width="300"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KapilAgrawal2005&layout=compact&theme=tokyonight&hide_border=false" height="175" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KapilAgrawal2005&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KapilAgrawal2005&theme=tokyonight&hide_border=false" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KapilAgrawal2005&layout=compact&theme=tokyonight&hide_border=false" height="175"/>
 </p>
 
 ---
@@ -45,13 +45,6 @@
 
 ## 🐍 Snake Game Contribution Chart:
 ![snake gif](https://github.com/KapilAgrawal2005/KapilAgrawal2005/blob/output/github-snake-dark.svg)
----
-
-## ✍️ Dev Quote of the Day:
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 ---
 
