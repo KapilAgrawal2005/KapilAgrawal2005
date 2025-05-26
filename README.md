@@ -6,15 +6,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KapilAgrawal2005&label=Profile%20views&color=0e75b6&style=flat" alt="KapilAgrawal2005" /> </p>
 
+## 🏆 GitHub Trophies:
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KapilAgrawal2005&theme=radical&column=5&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KapilAgrawal2005&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
 - 🎯 **Internship**: Currently working as a **Full Stack Developer Intern** at Dehix. 🚀
 
-- 🤝 I’m looking to collaborate on **making Web Applications in MERN stack.**
+- 🤝 I’m looking to collaborate on making **Web Applications in MERN stack.**
 
 - 💬 Ask me about **MERN stack development, from backend APIs with Node.js and Express to dynamic frontends with React and MongoDB integration.**
 
@@ -46,14 +48,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KapilAgrawal2005&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="175"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KapilAgrawal2005&layout=compact&theme=tokyonight&hide_border=false" height="175"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KapilAgrawal2005&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
