@@ -38,56 +38,57 @@
 
 ### 🧠 Tech Stack Highlights:
 #### 📦💻Frameworks:
+
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="55" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=css" height="55" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="55" alt="react logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=redux" height="55" alt="redux logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="bootstrap logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=express" height="55" alt="express logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="mongodb logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="nextjs logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo"  />
 </div>
 
 #### 🌍👨‍💻Languages:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cplusplus logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="cplusplus logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=ts" height="55" alt="typescript logo"  />
 </div>
 
 #### 🛠️Tools:
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postman" height="55" alt="postman logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="55" alt="vercel logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=figma" height="55" alt="figma logo"  />
 </div>
 
 ---
