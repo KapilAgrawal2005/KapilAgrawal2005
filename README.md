@@ -85,7 +85,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
-  <img width="5" />
+  <img width="5"/>
   <img src="https://skillicons.dev/icons?i=vercel" height="55" alt="vercel logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=figma" height="55" alt="figma logo"  />
