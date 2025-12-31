@@ -15,7 +15,7 @@
 
 - 🎯 **Internship**: Currently working as a **Full Stack Developer Intern** at Dehix. 🚀
 
-- 🤝 I’m looking to collaborate on making **Web Applications in MERN stack.**
+- 🤝 I’m looking to collaborate on making **Web Applications in Full Stack.**
 
 - 💬 Ask me about **MERN stack development, from backend APIs with Node.js and Express to dynamic frontends with React and MongoDB integration.**
 
